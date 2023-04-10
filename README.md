@@ -1,2 +1,3 @@
-# lana-tsiv-JSFE2022Q3
-Private repository for @lana-tsiv
+Gem puzzles application
+
+Deploy: https://lana-tsiv.github.io/Gem-puzzles/gem-puzzles/index.html
